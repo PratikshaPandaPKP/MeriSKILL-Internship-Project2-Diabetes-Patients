@@ -1,5 +1,3 @@
-
-
 1. **Data Exploration and Preprocessing:**
    - Explored the diabetes dataset, checking its shape and descriptive statistics.
    - Ensured no missing values were present in the dataset.
